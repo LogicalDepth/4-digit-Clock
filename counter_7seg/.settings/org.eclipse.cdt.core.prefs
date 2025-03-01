@@ -1,6 +1,0 @@
-eclipse.preferences.version=1
-environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1323611861/PATH/delimiter=\:
-environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1323611861/PATH/operation=replace
-environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1323611861/PATH/value=C\:\\Users\\kiran\\Documents\\BBB_eclipse\\gcc-linaro-6.3.1-2017.02-i686-mingw32_arm-linux-gnueabihf\\gcc-linaro-6.3.1-2017.02-i686-mingw32_arm-linux-gnueabihf\\bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games\:/snap/bin\:/snap/bin;/home/stealth/gcc-linaro-14.0.0-2023.06-x86_64_arm-linux-gnueabihf/bin
-environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1323611861/append=true
-environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1323611861/appendContributed=true
