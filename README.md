@@ -1,5 +1,5 @@
 ## 4 DIGIT CLOCK 
-The project implements a 4 digit 7 segement display which is controlled by Beaglebone Black .
+The project implements a 4 digit 7 segment display which is controlled by Beaglebone Black .
 GPIO's are the source of connection.
 
 
